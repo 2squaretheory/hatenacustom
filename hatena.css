@@ -1,9 +1,11 @@
-/* 下線赤 */
+/* 下線赤-太字 */
 .red-underline {
+  font-weight: bold;
   background: linear-gradient(transparent 60%, #ffa07a 0%);
 }
 
-/* 下線青 */
+/* 下線青-太字 */
 .blue-underline {
+  font-weight: bold;
   background: linear-gradient(transparent 60%, #87cefa 0%);
 }
