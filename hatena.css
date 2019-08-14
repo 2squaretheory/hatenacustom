@@ -1,9 +1,9 @@
 /* 下線赤 */
 .red-underline {
-  background: linear-gradient(transparent 60%, #ff6347 0%);
+  background: linear-gradient(transparent 60%, #ffa07a 0%);
 }
 
 /* 下線青 */
-.blueunderline {
-  background: linear-gradient(transparent 60%, #00bfff 0%);
+.blue-underline {
+  background: linear-gradient(transparent 60%, #87cefa 0%);
 }
